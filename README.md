@@ -9,6 +9,14 @@ I believe in learning by building — experimenting with new technologies, break
 🌐 Portfolio: https://www.abdulrehmann.com  
 📫 Email: mabdulrehman951@gmail.com
 
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulrehmann231&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdulrehmann231&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmann231&layout=compact&theme=tokyonight)
+
 ## 💻 Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
