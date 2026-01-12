@@ -15,7 +15,7 @@ I believe in learning by building — experimenting with new technologies, break
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdulrehmann231&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrehmann231&layout=compact&theme=tokyonight)
+![Top Languages](http://localhost:9000/api/top-langs/?username=abdulrehmann231&layout=compact&theme=tokyonight)
 
 ## 💻 Languages
 
